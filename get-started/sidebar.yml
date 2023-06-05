@@ -1,0 +1,16 @@
+---
+section: get-started
+title: 시작하십시오
+entries:
+- title: BlueXP 마이그레이션 보고서에 대해 자세히 알아보십시오
+  url: "/get-started/intro.html"
+- title: 필수 구성 요소
+  url: "/get-started/prerequisites.html"
+- title: 빠른 시작
+  url: "/get-started/quick-start.html"
+- title: BlueXP 마이그레이션 보고서를 설정합니다
+  url: "/get-started/setup.html"
+- title: BlueXP 마이그레이션 보고서에 액세스합니다
+  url: "/get-started/login.html"
+- title: FAQ 를 참조하십시오
+  url: "/get-started/faq.html"

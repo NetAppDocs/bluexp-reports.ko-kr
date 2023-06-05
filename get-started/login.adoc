@@ -1,0 +1,37 @@
+---
+sidebar: sidebar 
+permalink: get-started/login.html 
+keywords: bluexp login, reports service log in 
+summary: BlueXP의 서비스에 액세스하여 BlueXP 마이그레이션 보고서를 시작하십시오. 
+---
+= BlueXP 마이그레이션 보고서에 액세스합니다
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+BlueXP는 웹 브라우저에서 BlueXP SaaS 기반 사용자 인터페이스를 통해 액세스할 수 있습니다.
+
+BlueXP에 로그인하려면 NetApp Support 사이트 자격 증명을 사용하거나 이메일 및 암호를 사용하여 NetApp 클라우드 로그인에 등록할 수 있습니다. https://docs.netapp.com/us-en/cloud-manager-setup-admin/task-logging-in.html["로그인에 대해 자세히 알아보십시오"^].
+
+.단계
+. 웹 브라우저를 열고 로 이동합니다 https://console.bluexp.netapp.com/["BlueXP 콘솔"^].
++
+NetApp BlueXP 로그인 페이지가 나타납니다.
+
+. BlueXP에 로그인합니다.
+. 다음 중 하나를 수행합니다.
++
+** BlueXP 왼쪽 탐색 창에서 * 스토리지 * > * 마이그레이션 보고서 * 를 선택합니다.
+** BlueXP Canvas에서 작업 환경을 선택합니다. 오른쪽 패널에서 * Reports * > * View Cluster Reports * 를 선택합니다.
++
+보고서를 생성하지 않은 경우 랜딩 페이지가 나타납니다. 보고서를 생성한 경우 보고서 목록이 나타납니다. BlueXP Canvas 오른쪽 패널에서 특정 클러스터를 선택한 경우 보고서는 해당 클러스터에 대해서만 필터링됩니다.
+
+
+
++
+image:reports-landing.png["이 이미지는 서비스 랜딩 페이지를 보여줍니다"]
+
+

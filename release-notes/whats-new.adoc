@@ -1,0 +1,25 @@
+---
+sidebar: sidebar 
+permalink: release-notes/whats-new.html 
+keywords: 'reports what"s new, bluexp' 
+summary: 새로운 BlueXP 마이그레이션 보고서 서비스를 사용하면 스토리지 환경에서 파일, 디렉토리, 심볼 링크, 하드 링크, 파일 시스템 트리의 깊이와 폭, 가장 큰 파일 등을 신속하게 식별할 수 있습니다. 
+---
+= 새로운 기능
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+BlueXP 마이그레이션 보고서의 새로운 기능에 대해 알아보십시오.
+
+
+
+== 2023년 6월 2일
+
+새로운 BlueXP 마이그레이션 보고서 서비스를 사용하면 스토리지 환경에서 파일, 디렉토리, 심볼 링크, 하드 링크, 파일 시스템 트리의 깊이와 폭, 가장 큰 파일 등을 신속하게 식별할 수 있습니다.
+
+이 정보를 통해 사용하려는 프로세스가 재고를 효율적으로 성공적으로 처리할 수 있음을 미리 알 수 있습니다.
+
+link:https://docs.netapp.com/us-en/bluexp-reports/get-started/intro.html["BlueXP 마이그레이션 보고서에 대해 자세히 알아보십시오"].

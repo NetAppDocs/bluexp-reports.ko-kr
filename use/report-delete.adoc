@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: use/report-delete.html 
+keywords: BlueXP migration reports, volume reports 
+summary: 수정한 오류가 포함되어 있거나 더 이상 해당 보고서가 필요하지 않은 경우 보고서를 삭제할 수 있습니다. 
+---
+= 보고서를 삭제합니다
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/use/
+
+
+[role="lead"]
+수정한 오류가 포함되어 있거나 더 이상 해당 보고서가 필요하지 않은 경우 보고서를 삭제할 수 있습니다. 보고서의 인스턴스를 하나 이상 삭제할 수 있습니다.
+
+.단계
+. BlueXP 왼쪽 탐색 창에서 * 스토리지 * > * 마이그레이션 보고서 * 를 선택합니다.
+. 보고서 대시보드에서 보고서를 선택합니다.
+. 보고서 행에서 * 작업 *… 을 선택합니다. 메뉴에서 * 보고서 삭제 * 를 선택합니다.
+. 보고서의 인스턴스가 여러 개 있는 경우 삭제할 인스턴스를 선택하고 * Delete * 를 선택합니다.
++
+image:report-delete-multiple.png["이 이미지에는 여러 보고서를 삭제할 수 있는 삭제 페이지가 표시됩니다"]
+
+. 삭제를 확인하려면 * 삭제 * 를 선택합니다.
+

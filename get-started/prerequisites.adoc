@@ -1,0 +1,23 @@
+---
+sidebar: sidebar 
+permalink: get-started/prerequisites.html 
+keywords: what are BlueXP migration reports requirements, BlueXP migration reports prerequisites 
+summary: 환경, 네트워크 액세스, 로그인 및 웹 브라우저에 대한 지원을 확인하여 BlueXP 마이그레이션 보고서를 시작하십시오. 
+---
+= BlueXP 마이그레이션 보고서 사전 요구 사항
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+운영 환경, 로그인, 네트워크 액세스 및 웹 브라우저의 준비 상태를 확인하여 시작하십시오.
+
+BlueXP 마이그레이션 보고서 서비스에는 다음과 같은 사전 요구 사항이 있습니다.
+
+* Cloud Volumes ONTAP Azure NetApp Files의 데이터 LIF, NetApp ONTAP용 Amazon FSx 또는 온프레미스 작업 환경에 액세스합니다
+* ONTAP 9.7 이상 사용
+* NetApp BlueXP에서 관리 LIF에 설정된 BlueXP 커넥터 자세한 내용은 BlueXP 설명서를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["BlueXP 커넥터를 구성합니다"].
+* 표준 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXP 요구 사항"]
+

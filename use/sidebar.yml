@@ -1,0 +1,14 @@
+---
+section: use
+title: BlueXP 마이그레이션 보고서를 사용합니다
+entries:
+- title: BlueXP 마이그레이션 보고서에서 수행할 수 있는 작업
+  url: "/use/report-overview.html"
+- title: 보고서를 만듭니다
+  url: "/use/report-create.html"
+- title: 샘플 볼륨 보고서를 봅니다
+  url: "/use/report-sample.html"
+- title: 보고서 알림을 활성화합니다
+  url: "/use/report-notifications.html"
+- title: 보고서를 삭제합니다
+  url: "/use/report-delete.html"

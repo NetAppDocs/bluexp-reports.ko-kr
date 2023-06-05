@@ -1,0 +1,15 @@
+---
+sidebar: sidebar 
+permalink: get-started/setup.html 
+keywords: bluexp, reports, storage, inventory, volumes 
+summary: BlueXP 마이그레이션 보고서를 사용하려면 몇 가지 단계를 수행하여 설정합니다. 
+---
+= BlueXP 마이그레이션 보고서를 설정합니다
+:hardbreaks:
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/get-started/
+
+
+[role="lead"]
+BlueXP 마이그레이션 보고서 서비스를 구성할 필요가 없습니다. BlueXP 마이그레이션 보고서 옵션은 자동으로 활성화되어 BlueXP 왼쪽 탐색에 나타납니다.
