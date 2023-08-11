@@ -16,14 +16,14 @@ summary: NetApp BlueXP 마이그레이션 보고서 서비스를 몇 단계로 �
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["1개"] 사전 요구 사항을 검토합니다
 [role="quick-margin-para"]
-link:../get-started/prerequisites.html["환경이 이러한 요구 사항을 충족하는지 확인합니다"^].
+link:../get-started/prerequisites.html["환경이 이러한 요구 사항을 충족하는지 확인합니다"].
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png["세 가지"] 다음 단계
 [role="quick-margin-para"]
 다음은 여러분이 다음에 할 수 있는 일입니다.
 
 [role="quick-margin-list"]
-* link:../use/report-create.html["보고서를 만듭니다"^].
-* link:../use/report-sample.html["보고서 샘플을 봅니다"^].
-* link:../use/report-delete.html["보고서를 삭제합니다"^].
+* link:../use/report-create.html["보고서를 만듭니다"].
+* link:../use/report-sample.html["보고서 샘플을 봅니다"].
+* link:../use/report-delete.html["보고서를 삭제합니다"].
 
