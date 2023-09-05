@@ -19,14 +19,11 @@
   <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">단계</block>
   <block id="61c72c04996e2663abc77ce427e2615c" category="list-text">BlueXP 왼쪽 탐색 창에서 * 스토리지 * &gt; * 마이그레이션 보고서 * 를 선택합니다.</block>
   <block id="9c10ad779f44c1e68914d4e54b1d95fc" category="list-text">보고서를 표시하려면 * Actions *... 옵션을 선택하고 * 보고서 보기 * 를 선택합니다.</block>
-  <block id="d92e9fbbaa132a49a57032058333a5dc" category="inline-image-macro">이 이미지는 샘플 볼륨 보고서의 상단을 보여줍니다</block>
-  <block id="5823aec417ccd56feda26c5a9f121d7d" category="paragraph"><block ref="5823aec417ccd56feda26c5a9f121d7d" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c06108e68e17c6b2b0d54f0677843ee1" category="inline-image-macro">이 이미지는 샘플 볼륨 보고서의 중간을 보여줍니다</block>
   <block id="5d4ea628733fb39c199fc8791dbe5c7a" category="paragraph"><block ref="5d4ea628733fb39c199fc8791dbe5c7a" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ef0e06ae55d94ca2dfb4babdc5661de7" category="inline-image-macro">이 이미지는 샘플 볼륨 보고서의 가운데 다음 섹션을 보여줍니다</block>
   <block id="f52ca9d2a2d76da39681340edb3cf152" category="paragraph"><block ref="f52ca9d2a2d76da39681340edb3cf152" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c2ca60d6a14b06b4b3528c2b47858048" category="list-text">열의 의미를 알아보려면 일부 정보 위로 마우스를 가져갑니다.</block>
-  <block id="607e5b212f9088499882214504c86bc4" category="list-text">보고서를 CSV 형식으로 보려면 * Actions *... 오른쪽 옵션에서 * PDF 보기 * 를 선택합니다.</block>
   <block id="20c30cc539c668262bb407e81759802f" category="list-text">보고서 정보 보기:</block>
   <block id="ca72ba0eeff5584e52bd275c2d9df48f" category="list-text">* Maximum * &gt; * Total Depth *: 볼륨의 디렉토리 내에 중첩된 가장 큰 하위 디렉토리 수입니다. 이 예제에서 /subdirectory2 디렉터리는 2입니다.</block>
   <block id="a7c61ed1c889220336a36635748931f9" category="list-text">* 최대 * &gt; * 총 최대 너비 *: 볼륨 디렉토리의 최대 항목 수입니다. 항목은 파일, 하위 디렉터리, 심볼 링크 또는 하드 링크입니다.</block>
@@ -78,7 +75,6 @@
   <block id="22f65ce1309e30f5306c33ecbe960be4" category="list-text">알림 수준에 대해 * 정보 * 를 선택합니다.</block>
   <block id="ab99a4f8307b481f7e7bad3a73fc18c7" category="inline-image-macro">이 이미지는 정보에 대한 알림 옵션 설정을 보여 줍니다</block>
   <block id="e768fe59b26e945acfb206c5ddc8a846" category="paragraph"><block ref="e768fe59b26e945acfb206c5ddc8a846" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="8536bae122e5715a2a3abe6231b419a7" category="paragraph">파일 수, 디렉토리의 파일, 심볼 링크, 하드 링크, 가장 큰 파일 크기를 표시하는 볼륨 보고서를 생성할 수 있습니다. 있습니다.</block>
   <block id="5eabcb5b1d6fdf7108bd8640e06526aa" category="paragraph">보고서를 생성할 때마다 BlueXP 마이그레이션 보고서 서비스가 경로를 검색하고 데이터를 컴파일합니다. 동일한 보고서 정의를 사용하여 해당 보고서의 여러 인스턴스를 가질 수 있습니다.</block>
   <block id="6d767170892306b24b417164925a8bb5" category="paragraph">BlueXP 마이그레이션 보고서 서비스는 볼륨별로 데이터를 표시합니다.</block>
   <block id="0648a4f3563a96fcf7d496cf28420c77" category="paragraph">한 번에 하나의 보고서만 생성할 수 있습니다.</block>
@@ -95,7 +91,6 @@
   <block id="067462e998f421ea8fb1c1da96a65554" category="list-text">볼륨을 선택합니다.</block>
   <block id="3b0a91a5ea7b77db2fb83f740b7d1303" category="list-text">보고서 작성 * 을 선택합니다.</block>
   <block id="867f81ce9171f10118310484e40a2cd5" category="paragraph">BlueXP 마이그레이션 보고서 서비스는 보고서를 생성하고 보고서 목록에 나열합니다.</block>
-  <block id="8e43c284f0d373f4809b4c3f02b72f63" category="list-text">보고서의 PDF 파일을 다운로드하려면 * 작업 *... 옵션을 선택하고 * 보고서 다운로드 * 를 선택합니다.</block>
   <block id="d6fcb2dbf04ea8d168f189b22905dc57" category="list-text">동일한 보고서의 다른 인스턴스를 생성하려면 보고서 행을 선택하고 오른쪽에서 * 보고서 추가 * 를 선택합니다.</block>
   <block id="84fa68bdcea2ad5e54b20ac851705b19" category="summary">알려진 제한 사항은 이 서비스 릴리스에서 지원하지 않거나 올바르게 상호 운용되지 않는 플랫폼, 장치 또는 기능을 식별합니다.</block>
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">제한 사항</block>
@@ -358,4 +353,20 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="d687b97df8e082fb1a95e853c70aa1c2" category="section-title">2023년 9월 3일</block>
+  <block id="a0c145fadd8b464775a61d2f1a2e0474" category="paragraph">업데이트된 BlueXP 마이그레이션 보고서 서비스는 보고서 데이터에 대한 업데이트를 제공합니다. 이제 보고서에 할당된 용량이 포함됩니다.</block>
+  <block id="c8ee6676f257ec9e4051a81e20e2b86b" category="list-text">내보내기 정책이 ONTAP에 구성되어 있습니다. 엑스포트 정책은 볼륨에 대한 액세스 규칙을 정의합니다.</block>
+  <block id="1e383dea923bfb90b25d365ea346d669" category="inline-image-macro">이 이미지에는 샘플 볼륨 보고서의 맨 위와 전체 항목 탭이 표시됩니다</block>
+  <block id="9f14d85a083361c2913f91d6ae8e5d56" category="paragraph"><block ref="9f14d85a083361c2913f91d6ae8e5d56" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="970f8d2fea058058056d787fd2c64959" category="list-text">다음 옵션 중 하나를 선택합니다.</block>
+  <block id="c6f9088e2293b9cbc7e61e8735ce4cd8" category="list-text">보고서의 PDF 파일을 보고 다운로드하려면 * Actions *... 옵션을 선택하고 * 보고서 다운로드 * 를 선택합니다.</block>
+  <block id="0ddcb2a8f5b6ab59686b7d5eda06c881" category="list-text">모든 항목에 대한 정보를 표시하려면 * Total items * 탭을 선택합니다.</block>
+  <block id="5cd1136e0d113841c27f47eed7fef071" category="list-text">할당된 용량 정보만 표시하려면 * Allocated capacity * 탭을 선택합니다.</block>
+  <block id="7cd81b2badb8a49443232eba983ab827" category="inline-image-macro">이 이미지는 샘플 볼륨 보고서의 맨 위와 할당된 용량 탭을 보여 줍니다</block>
+  <block id="306f6523074f5531d21c8da5489a0b28" category="paragraph"><block ref="306f6523074f5531d21c8da5489a0b28" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d935fc1afac8a92ca974555060580961" category="inline-image-macro">이 이미지는 샘플 볼륨 분포 보고서의 상단을 보여 줍니다</block>
+  <block id="1cf0750149f1004c44ae5c6d08324ebc" category="paragraph"><block ref="1cf0750149f1004c44ae5c6d08324ebc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="2eda031e57f814ce3091bfeaee3b48a2" category="summary">BlueXP 마이그레이션 보고서 서비스를 사용하면 파일, 디렉토리 내 파일, 심볼 링크, 하드 링크, 가장 큰 파일 크기를 보여주는 볼륨 보고서를 할당된 용량 등:</block>
+  <block id="e89e178dc7f2cf739c88943d98757406" category="paragraph">파일 수, 디렉토리의 파일 수, 심볼 링크, 하드 링크, 가장 큰 파일 크기를 보여 주는 볼륨 보고서를 만들 수 있습니다. 할당된 용량 등:</block>
+  <block id="97f84448ed8b3b07f10a92cfa1a38076" category="list-text">배포 보고서를 보려면 오른쪽의 작업 메뉴에서 * 보고서 배포 보기 * 를 선택합니다.</block>
 </blocks>

@@ -18,6 +18,7 @@ BlueXP 마이그레이션 보고서 서비스에는 다음과 같은 사전 요�
 
 * Cloud Volumes ONTAP Azure NetApp Files의 데이터 LIF, NetApp ONTAP용 Amazon FSx 또는 온프레미스 작업 환경에 액세스합니다
 * ONTAP 9.7 이상 사용
+* 내보내기 정책이 ONTAP에 구성되어 있습니다. 엑스포트 정책은 볼륨에 대한 액세스 규칙을 정의합니다.
 * BlueXP Connector는 NetApp BlueXP에서 클러스터 관리 LIF로 설정됩니다. 클러스터 관리 LIF는 클러스터 관리 작업을 수행할 수 있는 가상 네트워크 인터페이스입니다. 자세한 내용은 BlueXP 설명서를 참조하십시오 https://docs.netapp.com/us-en/cloud-manager-setup-admin/concept-connectors.html["BlueXP 커넥터를 구성합니다"].
 * 표준 https://docs.netapp.com/us-en/cloud-manager-setup-admin/reference-checklist-cm.html["BlueXP 요구 사항"]
 
