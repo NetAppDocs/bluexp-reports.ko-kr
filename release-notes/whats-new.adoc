@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: release-notes/whats-new.html 
 keywords: 'reports what"s new, bluexp' 
-summary: 새로운 BlueXP 마이그레이션 보고서 서비스를 사용하면 스토리지 환경에서 파일, 디렉토리, 심볼 링크, 하드 링크, 파일 시스템 트리의 깊이와 폭, 가장 큰 파일 등을 신속하게 식별할 수 있습니다. 
+summary: BlueXP 마이그레이션 보고서의 새로운 기능에 대해 알아보십시오. 
 ---
 = 새로운 기능
 :hardbreaks:
@@ -13,6 +13,12 @@ summary: 새로운 BlueXP 마이그레이션 보고서 서비스를 사용하면
 
 [role="lead"]
 BlueXP 마이그레이션 보고서의 새로운 기능에 대해 알아보십시오.
+
+
+
+== 2023년 11월 13일
+
+이제 SMB/CIFS 프로토콜을 사용하는 볼륨에 대한 보고서를 생성할 수 있습니다.
 
 
 

@@ -96,7 +96,6 @@
   <block id="e646e16bee8b32e6ea29e30d01970a6c" category="doc">제한 사항</block>
   <block id="fa62285d299fafbecd9c02da5fa530c6" category="summary">새로운 BlueXP 마이그레이션 보고서 서비스를 사용하면 스토리지 환경에서 파일, 디렉토리, 심볼 링크, 하드 링크, 파일 시스템 트리의 깊이와 폭, 가장 큰 파일 등을 신속하게 식별할 수 있습니다.</block>
   <block id="490414e0366b091220802d406e52c076" category="doc">새로운 기능</block>
-  <block id="0a315dc6821559d103066780c255612b" category="paragraph">BlueXP 마이그레이션 보고서의 새로운 기능에 대해 알아보십시오.</block>
   <block id="2962158ebf7a34c626b48db40bc051ec" category="section-title">2023년 6월 2일</block>
   <block id="d792454ca1593678a5c636322be98be7" category="paragraph">이 정보를 통해 사용하려는 프로세스가 재고를 효율적으로 성공적으로 처리할 수 있음을 미리 알 수 있습니다.</block>
   <block id="167aa714a6db028bb8fc39b77f1185ef" category="inline-link-macro">BlueXP 마이그레이션 보고서에 대해 자세히 알아보십시오</block>
@@ -371,4 +370,7 @@
   <block id="522cbb900314aeb84eb5a961c5f94672" category="section-title">클라우드 공급자의 파일 서비스에 대한 지원을 받습니다</block>
   <block id="f6185bb12f5e53c800be8cda7fbca65b" category="paragraph">클라우드 공급자의 파일 서비스, 자체 인프라 또는 서비스를 사용하는 솔루션과 관련된 기술 지원은 해당 제품의 BlueXP 설명서에서 "도움말 얻기"를 참조하십시오.</block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">BlueXP 및 해당 스토리지 솔루션 및 서비스에 관한 기술 지원을 받으려면 아래에 설명된 지원 옵션을 사용하십시오.</block>
+  <block id="3f3fab9b522f231cf00b909c6155b3d4" category="summary">BlueXP 마이그레이션 보고서의 새로운 기능에 대해 알아보십시오.</block>
+  <block id="35214f9b3df21ed35db22cb765a9b147" category="section-title">2023년 11월 13일</block>
+  <block id="c14af667110ffb482c0adaaed623dbe2" category="paragraph">이제 SMB/CIFS 프로토콜을 사용하는 볼륨에 대한 보고서를 생성할 수 있습니다.</block>
 </blocks>
