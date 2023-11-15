@@ -113,8 +113,6 @@
   <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">커뮤니티</block>
   <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
   <block id="00c5fef3bb9d593ae96bf5d2ee60354a" category="paragraph">BlueXP 커뮤니티에 가입하여 진행 중인 토론을 팔로우하거나 새 토론을 만드십시오.</block>
-  <block id="80b1b0d2b1ebf2b3cba2d25759801afd" category="list-text">mailto:ng-cloudmanager-feedback@netapp.com [피드백 이메일]</block>
-  <block id="6702efec14563f45f1ee2f8c613b8ad8" category="paragraph">저희는 귀하의 의견을 소중하게 생각합니다. BlueXP 개선에 도움이 되는 피드백을 제출하십시오.</block>
   <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">NetApp Support로 케이스 생성</block>
   <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">위의 자체 지원 옵션 외에도 NetApp 지원 전문가와 협력하여 지원을 활성화한 이후의 모든 문제를 해결할 수 있습니다.</block>
   <block id="8fece025a1a8fef7018449bf104a2527" category="list-title">시작하기 전에</block>
@@ -226,7 +224,6 @@
   <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">이러한 NSS 자격 증명은 특정 BlueXP 계정 ID와 연결됩니다. BlueXP 계정에 속한 사용자는 * 지원 &gt; NSS 관리 * 에서 이러한 자격 증명에 액세스할 수 있습니다.</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">고객 수준 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있습니다.</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">파트너 또는 리셀러 계정이 있는 경우 NSS 계정을 하나 이상 추가할 수 있지만 고객 수준 계정과 함께 추가할 수는 없습니다.</block>
-  <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp은 Microsoft Azure Active Directory를 지원 및 라이선싱과 관련된 인증 서비스의 ID 공급자로 사용합니다.</block>
   <block id="465ec6d5eafa3524c948c99d8bfcd306" category="list-text">로그인 페이지에서 인증 프로세스를 수행할 수 있도록 NetApp Support 사이트의 등록 이메일 주소와 암호를 제공합니다.</block>
   <block id="cbc6cc3bb022583403171b447b2a962c" category="paragraph">이러한 작업을 통해 BlueXP는 NSS 계정을 사용하여 라이선스 다운로드, 소프트웨어 업그레이드 확인 및 향후 지원 등록과 같은 작업을 수행할 수 있습니다.</block>
   <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">NSS 계정은 고객 수준 계정이어야 합니다(게스트 또는 임시 계정이 아님). 여러 개의 고객 수준 NSS 계정을 가질 수 있습니다.</block>
@@ -373,4 +370,5 @@
   <block id="3f3fab9b522f231cf00b909c6155b3d4" category="summary">BlueXP 마이그레이션 보고서의 새로운 기능에 대해 알아보십시오.</block>
   <block id="35214f9b3df21ed35db22cb765a9b147" category="section-title">2023년 11월 13일</block>
   <block id="c14af667110ffb482c0adaaed623dbe2" category="paragraph">이제 SMB/CIFS 프로토콜을 사용하는 볼륨에 대한 보고서를 생성할 수 있습니다.</block>
+  <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp는 지원 및 라이센스와 관련된 인증 서비스의 ID 공급자로 Microsoft Entra ID를 사용합니다.</block>
 </blocks>
